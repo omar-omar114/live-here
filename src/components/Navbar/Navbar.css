@@ -1,0 +1,38 @@
+
+.discover{
+     color: whitesmoke;
+     text-decoration: none;
+     font-size: large;
+     font-weight: 600;
+     font-family: 'Exo', sans-serif;
+     position: relative;
+     left: 300px;
+     cursor: pointer;
+}
+
+.discover:hover{
+     color: #1B8500;
+}
+
+.img-style{
+     border-radius: 10px;
+     border: 2px solid white;
+}
+
+.btn-signin{
+     width: 150px;
+     height: 40px;
+     font-size: 15px;
+     font-weight: 600;
+     font-family: 'Exo', sans-serif;
+     color: #1B8500;
+     border: 2px solid #1B8500;
+     background-color: white;
+     border-radius: 10px;
+}
+
+.btn-signin:hover{
+     background-color: #1B8500;
+     color: white;
+     
+}
