@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/live-here/static/css/main.f8b7d899.css",
+    "main.js": "/live-here/static/js/main.7a640ce6.js",
+    "static/js/787.c9ad6e86.chunk.js": "/live-here/static/js/787.c9ad6e86.chunk.js",
+    "static/media/home-cover.jpg": "/live-here/static/media/home-cover.94154c5791f7daad8ac8.jpg",
+    "index.html": "/live-here/index.html",
+    "main.f8b7d899.css.map": "/live-here/static/css/main.f8b7d899.css.map",
+    "main.7a640ce6.js.map": "/live-here/static/js/main.7a640ce6.js.map",
+    "787.c9ad6e86.chunk.js.map": "/live-here/static/js/787.c9ad6e86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8b7d899.css",
+    "static/js/main.7a640ce6.js"
+  ]
+}
