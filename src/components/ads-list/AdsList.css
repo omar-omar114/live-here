@@ -1,0 +1,27 @@
+.grid-conatainer{
+     width: 80%;
+     display: grid;
+     grid-template-columns: auto auto auto;
+     justify-content: space-between;
+}
+
+.adslist-dot{
+     width: 10px;
+     height: 10px;
+     border-radius: 5px;
+     background-color: black;
+     color: black;
+     margin-bottom: 40px;
+}
+
+.adslist-container{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     margin-top: 30px;
+}
+
+.adslist-title{
+     font-family:'Exo', sans-serif;
+     margin-bottom: 8px;
+}
